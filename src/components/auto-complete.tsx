@@ -1,6 +1,5 @@
 import react, { ChangeEvent, FC, useState } from "react";
 import styled from "styled-components";
-import { FaArrowDown } from "@react-icons/all-files/fa/FaArrowDown";
 
 import {
   AutoCompleteContainer,
